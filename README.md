@@ -1,4 +1,5 @@
 <div align="center">
+  [![Run on Repl.it](https://repl.it/badge/github/rustwasm/wasm-pack-template)](https://repl.it/github/rustwasm/wasm-pack-template)
 
   <h1><code>wasm-pack-template</code></h1>
 
